@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+twilio
+openai
+python-decouple
+sqlalchemy
+psycopg2-binary
+python-multipart
+pyngrok
+python-dotenv==1.0.0
+requests==2.31.0
+streamlit==1.25.0
